@@ -1,7 +1,7 @@
 
 * {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 body{
@@ -9,9 +9,9 @@ body{
 }
 
 main{
-    background-color: white;
-    width: 500px;
+    background-color: rgb(0, 255, 238);
+    width: 700px;
     margin: auto;
-    padding: 10px;
+    padding: 20px;
     box-shadow: 3px 3px 3px rgba(174, 0, 255, 0.625);
 }
